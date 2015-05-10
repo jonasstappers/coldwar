@@ -123,6 +123,19 @@
  	    background-color:#138A76;
  	    
  	}
+ 	.navbar li a:active {
+ 	    display:block;
+ 	    text-decoration:none;
+ 	    color:#ecf0f1;
+ 	    text-align:center;
+ 	    font-family:roboto;
+ 	    font-weight:300;
+ 	    font-size:1.5em;
+ 	    padding-top:6px;
+ 	    padding-bottom:6px;
+ 	    background-color:#138A76;
+ 	    
+ 	}
 
     iframe {
         width: 100%;
