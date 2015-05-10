@@ -13,7 +13,7 @@
         font-family: roboto;
         font-weight: 300;
         font-size: 50px;
-        color: #138A76;
+        color: #34495E;
         margin-bottom: 5px;
     }
 
@@ -21,14 +21,14 @@
         font-family: roboto;
         font-weight: 300;
         font-size: 28px;
-        color: #138A76;
+        color: #34495E;
         margin-bottom: 5px;
     }
 
     h3  {
         font-family: roboto;
         font-size: 24px;
-        color: #138A76;
+        color: #34495E;
         font-weight: 300;
     }
 
@@ -41,7 +41,7 @@
     p   {
         font-family: roboto;
         font-size: 16px;
-        line-height: 130%;
+        line-height: 140%;
     }
 
  	.container {
@@ -64,7 +64,7 @@
  	.content-box {
  	    width:100%;
  	    background-color:#DADEE1;
- 	    border:3px solid #138A76;
+ 	    border:3px solid #34495E;
  	}
 
     .text-box {
@@ -87,14 +87,14 @@
  	.navbar li {
  	    width:100%;
  	    height:40px;
- 	    border:3px solid #138A76;
+ 	    border:3px solid #34495E;
  	    margin-bottom:6px; 
  	}
  	
  	.navbar li a {
  	    display:block;
  	    text-decoration:none;
- 	    color:#138A76;
+ 	    color:#34495E;
  	    text-align:center;
  	    font-family:roboto;
  	    font-weight:300;
@@ -117,7 +117,7 @@
  	    font-size:1.5em;
  	    padding-top:6px;
  	    padding-bottom:6px;
- 	    background-color:#138A76;
+ 	    background-color:#34495E;
  	    
  	}
 
