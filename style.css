@@ -13,7 +13,7 @@
         font-family: roboto;
         font-weight: 300;
         font-size: 50px;
-        color: #2C3E50;
+        color: #34495E;
         margin-bottom: 5px;
     }
 
@@ -21,14 +21,14 @@
         font-family: roboto;
         font-weight: 300;
         font-size: 28px;
-        color: #2C3E50;
+        color: #34495E;
         margin-bottom: 5px;
     }
 
     h3  {
         font-family: roboto;
         font-size: 24px;
-        color: #2C3E50;
+        color: #34495E;
         font-weight: 300;
     }
 
@@ -66,7 +66,7 @@
  	    width:75%;
  	    background-color:#D7E5EA;
  	    float:left;
- 	    border:3px solid #2C3E50;
+ 	    border:3px solid #34495E;
  	    margin-bottom:15px;
  	}
 
@@ -89,7 +89,7 @@
  	.navbar li {
  	    width:100%;
  	    height:40px;
- 	    border:3px solid #2C3E50;
+ 	    border:3px solid #34495E;
  	    margin-bottom:6px;
  	    
  	    
@@ -98,7 +98,7 @@
  	.navbar li a {
  	    display:block;
  	    text-decoration:none;
- 	    color:#2C3E50;
+ 	    color:#34495E;
  	    text-align:center;
  	    font-family:roboto;
  	    font-weight:300;
@@ -137,7 +137,10 @@
  	    background-color:#2C3E50;
  	    
  	}
-
+	img {
+		width:100%;
+		margin-bottom:5px;
+	}
     iframe {
         width: 100%;
     }
