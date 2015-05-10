@@ -63,7 +63,7 @@
  
  	.content-box {
  	    width:100%;
- 	    background-color:#DADEE1;
+ 	    background-color:#D7E5EA;
  	    border:3px solid #34495E;
  	}
 
@@ -101,7 +101,7 @@
  	    font-size:1.5em;
  	    padding-top:6px;
  	    padding-bottom:6px;
- 	    background-color:#DADEE1;
+ 	    background-color:#D7E5EA;
  	    -webkit-transition: color 0.5s, background-color 0.5s;
         transition: color 0.5s, background-color 0.5s;
  	    
